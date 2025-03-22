@@ -1,6 +1,6 @@
 markdown
 Copy
-# Proyecto de Manejo de Archivos Excel con Python
+# Examen 1 desarrollo con Python
 
 Este proyecto consiste en un script de Python que realiza operaciones básicas con archivos Excel utilizando la biblioteca `openpyxl`. El script incluye la creación de un archivo Excel, la modificación de su contenido y un ejercicio que permite al usuario ingresar datos de estudiantes y guardar los nombres de los aprobados en un archivo Excel.
 
